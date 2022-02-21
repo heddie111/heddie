@@ -7,6 +7,7 @@
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta http-equiv="X-UA-Compatible" content="ie=edge">
    <title>Free Mobile Data 2022</title>
+<meta name="propeller" content="a81b2a241155dcda832712de953d93e0">
 
 </head>
 <body>
