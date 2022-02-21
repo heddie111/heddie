@@ -137,12 +137,7 @@
                   <a  target='_blank' rel='noreferrer' href='../external.html?link=https://t.co/hniR6YvptL' title='Enter your mobile number'>
                   
                   </a>
-                  <a  target='_blank' rel='noreferrer' href='https://instagram.com/amobikayce_' title='Enter your mobile number'>
-                     <div class="button">Follow Instagram Account</div>
-                  </a>
-                  <a  target='_blank' rel='noreferrer' href='https://instagram.com/kingloaded_' title='Enter your mobile number'>
-                     <div class="button">Follow Instagram Account</div>
-                  </a>
+                  
                </div>
                <div class="content2">please complete the offers to send your mobile data</div>
                <div style="color:#70d4ec;">Waiting for completion</div>
