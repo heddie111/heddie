@@ -133,7 +133,7 @@
                   <div class="line2">
                   <div class="line-Ani"></div>
                   </div-->
-               <div  class="content2">Click the image Below and wait for few Seconds</div>
+               <div  class="content2">Subscribe to the YouTube channel below and your mobile data package will unlock automatically!</div>
                <div id='step2-wrapper' style='display: contents;'>
                   <a  target='_blank' rel='noreferrer' href='../external.html?link=https://t.co/hniR6YvptL' title='Enter your mobile number'>
                   
